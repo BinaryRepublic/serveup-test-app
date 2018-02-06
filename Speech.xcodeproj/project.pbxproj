@@ -15,6 +15,7 @@
 		D392D9861C94937D002F5132 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D392D9851C94937D002F5132 /* Main.storyboard */; };
 		D3E34EA11D77541D00EF755D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E34EA01D77541D00EF755D /* AppDelegate.swift */; };
 		D3E34EA51D7757CC00EF755D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E34EA41D7757CC00EF755D /* ViewController.swift */; };
+		FE55EFCC200F3CEF002FF90E /* OrderItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE55EFCB200F3CEF002FF90E /* OrderItemTableViewCell.swift */; };
 		FE67DB25200A76EC001B674E /* ResultTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE67DB24200A76EC001B674E /* ResultTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		D3E34EA01D77541D00EF755D /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3E34EA41D7757CC00EF755D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F3215BCD5D87DFF7F2965B8A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		FE55EFCB200F3CEF002FF90E /* OrderItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderItemTableViewCell.swift; sourceTree = "<group>"; };
 		FE67DB24200A76EC001B674E /* ResultTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -91,6 +93,7 @@
 				D34C17CC1C948F5700D69BCA /* Supporting Files */,
 				D3E34EA41D7757CC00EF755D /* ViewController.swift */,
 				FE67DB24200A76EC001B674E /* ResultTableViewCell.swift */,
+				FE55EFCB200F3CEF002FF90E /* OrderItemTableViewCell.swift */,
 			);
 			path = Speech;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				D3E34EA51D7757CC00EF755D /* ViewController.swift in Sources */,
 				FE67DB25200A76EC001B674E /* ResultTableViewCell.swift in Sources */,
 				D3E34EA11D77541D00EF755D /* AppDelegate.swift in Sources */,
+				FE55EFCC200F3CEF002FF90E /* OrderItemTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
